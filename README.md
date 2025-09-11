@@ -2,4 +2,4 @@
 
 ## Referências
 
-- [Vem2025 - GitHub Repository](https://github.com/vemworkshop/vem2025)
+- [EMMC2025 - GitHub Repository](https://github.com/emmcomp/emmcomp2025)
