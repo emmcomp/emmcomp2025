@@ -325,6 +325,26 @@ h6,
     border-bottom: 2px solid #fcebe3;
 }
 
+/* Ajustes para dispositivos móveis */
+@media (max-width: 768px) {
+    #hero {
+        background-size: cover;
+        background-position: center center;
+        background-attachment: scroll;
+        height: 50vh;
+        min-height: 400px;
+    }
+}
+
+@media (max-width: 480px) {
+    #hero {
+        background-size: contain;
+        background-position: top center;
+        height: 40vh;
+        min-height: 300px;
+    }
+}
+
 #about:before {
     /*content: "";*/
     background: rgba(249, 254, 255, 0.8);
